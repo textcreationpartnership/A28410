@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Bloody lover, or, Barbarous nevvs from Glocester a full and true relation how an inhumane villain named William Hall, did on the 16th of October last, most cruelly murther a maid, whose name was Sarah Butt, that was his sweet-heart, as she was milking, cleaving her skull in three places with a hedging-bill, cutting off one of her hands, and giving her several other mortal wounds : as also how he endeavoured to have killed a little child that was with her, and formerly attempted to murther both her and her mother, wounding the latter in several places.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28410</idno>
+            <idno type="STC">Wing B3257</idno>
+            <idno type="STC">ESTC R39614</idno>
+            <idno type="EEBO-CITATION">18451700</idno>
+            <idno type="OCLC">ocm 18451700</idno>
+            <idno type="VID">107697</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28410)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107697)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1628:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Bloody lover, or, Barbarous nevvs from Glocester a full and true relation how an inhumane villain named William Hall, did on the 16th of October last, most cruelly murther a maid, whose name was Sarah Butt, that was his sweet-heart, as she was milking, cleaving her skull in three places with a hedging-bill, cutting off one of her hands, and giving her several other mortal wounds : as also how he endeavoured to have killed a little child that was with her, and formerly attempted to murther both her and her mother, wounding the latter in several places.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imperfect: slightly faded, with some loss of print.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107697:1"/>
+            <pb facs="tcp:107697:1" rendition="simple:additions"/>
+            <p>THE BLOODY LOVER: OR, Barbarous Nevvs FROM GLOCESTER.</p>
+            <p>A full and true Relation how an Inhumane Villain Named <hi>William Hall,</hi> did on the 16<hi rend="sup">th</hi>. of <hi>October</hi> laſt, moſt cruelly Murther a Maid, whoſe Name was <hi>Sarah Butt,</hi> that was his Sweet-heart, as ſhe was Milking, cleaving her skull in three places with a Hedging-bill, cutting off one of her hands, and giving her ſeveral other mortal Wounds.</p>
+            <p>As alſo how he endeavoured to have killed a little Child that was with her, and formerly attempted to Murther both her and her Mother, wounding the latter in ſeveral places.</p>
+            <q>
+               <l>If monſtrous Love ſuch bloody ſcenes create,</l>
+               <l>What Tragedies may we expect from Hate?</l>
+            </q>
+            <p>Printed for <hi>P. Brooksby,</hi> 1673.</p>
+            <pb facs="tcp:107697:2"/>
+            <pb facs="tcp:107697:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:107697:3"/>
+            <pb n="3" facs="tcp:107697:3"/>
+            <head>THE Bloody Lover, &amp;c.</head>
+            <p>IT is a ſad, yet wholeſom Speculation to conſider into what a woful condition the diſobedience of our Firſt Parents has plunged their unhappy Poſterity; Mans whole eſtate (by Nature) being too truly um'd up by the ſacred Hiſtorian in this miſerable total Evil, wholly Evil, and that Conti<g ref="char:EOLhyphen"/>nually; our underſtandings mufled up in thick gloomy Clouds of ignorance or Error, our Judgements blear<g ref="char:EOLhyphen"/>ey'd and depraved, our wills headſtrong and falſe-biaſed infinitely more ready to follow the deſtructive Allure<g ref="char:EOLhyphen"/>ments of vice, than the ſober Dictates of Vertue, all our Sences but ſo many Traiterous inlets of Sin, and our imaginations Seed-plots of vanity and wicked<g ref="char:EOLhyphen"/>neſs, Reaſon deſigned by Heaven, as King to moderate the Extravagancies of the inferiour faculties, is ut<g ref="char:EOLhyphen"/>terly
+<pb n="4" facs="tcp:107697:4"/>dethroned by rebellious Paſſions, and unruly Affections, ſo that Exorbitant deſires hurry us to the ruine of our ſelves and others, and we are led Cap<g ref="char:EOLhyphen"/>tives at the Devils pleaſure, by the Tyranny of eve<g ref="char:EOLhyphen"/>ry domineering Luſt; hence the world becomes em<g ref="char:EOLhyphen"/>brewed with blood, and each day alarms us with Deplorable Relations of ſome miſchievous and Tra<g ref="char:EOLhyphen"/>gical Events.</p>
+            <p>Love is certainly the nobleſt of our Paſſions, the Bond of the Univerſe, the Buſineſs of Heaven, and the Glory of Earth, yet this too ſuffers in the general Depravity, whilſt each Kitchinſtuff-flame, and bruitiſh Irregular heat uſurps its Livery, and ſhrouds its own deformity under the covert of that Illuſtrious Name, as unhappily it happened in our preſent caſe, which (without amuſing the greedy Reader with fur<g ref="char:EOLhyphen"/>ther Preamble) was briefly and plainly thus.</p>
+            <p>There was an ordinary Servant to Husdandry came ſome years ſince to live with a ſufficient Yeoman at a place called <hi>Biſhops-Norton</hi> in <hi>Gloceſterſhire,</hi> and not far from <hi>Gloceſter</hi> City: He was a fellow of very poor obſcure birth, and worſe conditions; a ſullen ſurly temper, Cholerick, and revengeful, very ſpa<g ref="char:EOLhyphen"/>ring of his ſpeech, but of a humour cloſe and cove<g ref="char:EOLhyphen"/>tous; his Maſter had then a Daughter named <hi>Sarah,</hi> a young Maid, very handſom, and ſweet-conditioned, of about eighteen years of Age, and on whom he intended to beſtow a conſiderable Portion, which in<g ref="char:EOLhyphen"/>vited ſeveral young men of equal rank thereabouts to Court her: amongſt the reſt, this poor Servant of her Fathers muſt needs be hers, and pretends a great Love for her, whether it were her good Conditions, (which we ſcarce believe, ſince few men now adays regard them) or her beauty (which is moſt proba<g ref="char:EOLhyphen"/>ble)
+<pb n="5" facs="tcp:107697:4"/>the hopes of her money (which all adore) that was the Ground of his good will we know not, but in ſhort time being in the ſame Houſe with her, he eaſily found an opportunity to declare his mind to her, who having an equal a verſion to his perſon and quality, at firſt anſwered him with a flat denyal, and afterwards endea<g ref="char:EOLhyphen"/>voured to Check his inſolence by a deſerved contempt and diſdain, but finding that ſhe ſhould ſtill be perſe<g ref="char:EOLhyphen"/>cuted with his fooliſh importunities, though ſhe had often given him warning to deſiſt his vain Addreſſes; concluded ſhe had no way to be rid of them, but by acquainting her Parents; who very Gravely checkt him for his boldneſs, and told him that not only their care for their daughters future welfare, but her own incli<g ref="char:EOLhyphen"/>nations did forbid him to entertain any thoughts of ever being her Husband. To this he anſwers little at preſent, but falls into a ſullen melancholly, (the fitteſt Ground in Nature for the Devil to ſow his Tares in) and taking counſel of Hell; reſolves ſince ſhe would not accept of his Love ſhe ſhould feel the effects of his Hate, whereupon taking his advantage he ruſhes into the houſe one day ſoon after with a Pitch-fork in his hand, with an intent (as is beleiev'd) to murther both her and her Mother, but the Maid being then hap<g ref="char:EOLhyphen"/>pily on ſome occaſion in another Room, he falls firſt on the Good woman wounding her in the Arm, who crying out and othrr Servants comming in, immedi<g ref="char:EOLhyphen"/>ately they at that time prevented his bloody purpoſe. This cauſed much diſturbance, but the fellow pretend<g ref="char:EOLhyphen"/>ing himſelf very ſorry for what he had done, and laying all the blame on his paſſionate affection, which he ſaid had tranſported him almoſt to phrenzy, they willing to be quit of him, took no further courſe to puniſh him but only diſmiſt him their ſervice, who promiſed very ſolemnly never more to trouble them or
+<pb n="6" facs="tcp:107697:5"/>their daughter, and accordingly being gone, to color his black deſigns; ſoon after he courted another per<g ref="char:EOLhyphen"/>ſon, and married her: in whoſe embraces no body could doubt but he would have buried all thoughts of his former Miſtreſs, who ſome time afterwards being wil<g ref="char:EOLhyphen"/>ling to ſee ſomewhat more of the world than ſhe could learn by being always at home with her parents, vo<g ref="char:EOLhyphen"/>luntarily put her ſelf to ſervice.</p>
+            <p>But our monſtrous Love's rage is not yet over, the De<g ref="char:EOLhyphen"/>vil and he have made a bargain together, that nothing ſhall ſatisfie his revenge but her Blood: For the effecting of which premeditated villary as this poor harmleſs Maid on the twenty ſixth of <hi>Octob.</hi> laſt, was a Milking ſome fields off from her Maſters houſe, unaccompanied by any but a Child of her Maſters about nine years old, and her own Innocent thoughts, this inhumane bruit (waiting his op<g ref="char:EOLhyphen"/>portunity) meets her, and violently taking her by the arm, with a look gaſtly as Death, and voice terrible, as that of Thunder, thus accoſts her: <hi>Now you proud Huſwife, I will be even with you for all your ſcorns, your diſdains ſhall coſt you your Life, and your Blood anſwer my revenge.</hi> Saying thus (or words to that effect) with a Hedging-bill he had in his hand he ſtrikes at her Head, but the firſt ſtroak miſſing, gave her opportunity to fall on her knees, begging of him for Chriſts ſake to ſpare her life, but he more barbarous than the wild Savages conti<g ref="char:EOLhyphen"/>nues deaf to her Cries, and repeating his blow, at the next ſtroak cuts her into the skull, when ſeeing the little child ſtanding at ſome diſtance, amazed at his Cruelty, he reſolves to diſpatch him too, but the dy<g ref="char:EOLhyphen"/>ing Maid crying out: <hi>Run Child for thy Life, for he has Murthered me,</hi> The Child betook himſelf to his Heels ſo nimbly that the Murtherer that purſued him a good way could not overtake him, but turning back that he might be ſure to compleat his Helliſh Work,
+<pb n="7" facs="tcp:107697:5"/>falls afreſh a hacking the poor Maid, cutting her twice more into the skull, and giving her ſeveral other mor<g ref="char:EOLhyphen"/>tal wounds, and ſo betook himſelf to flight, leaving his bloody weapon upon the place.</p>
+            <p>The Child being got home, firſt with his Gaſtly looks, and afterwards with his Tongue, ſoon as his loſt breath and fright would give him leave, declares the bloody news, which alaraming the family, they in<g ref="char:EOLhyphen"/>ſtantly repair to the place, where they find (a ſight that would melt the moſt flinty heart into tears) the poor mangled Creature weltring in her Virgin Blood, and filling the Air with dying Groans, when they arrived ſhe was ready to expire, and onely continued ſo long a live, as with her fainting voice to declare the name of her barbarous Murtherer.</p>
+            <p>Strict ſearch was forthwith made, and Hue and Cry ſent forth to all parts for apprehending the Au<g ref="char:EOLhyphen"/>thor of this horrid fact. But as if the black Prince of Darkneſs that hurried him on to ſo Wicked a Deed had aſſiſted him too in his eſcape, he cannot as yet be heard of: But we doubt not but the moſt Juſt and Blood-revenging providence of Heaven (that never ſuf<g ref="char:EOLhyphen"/>fers Murthers to go unpuniſhed) will in due time bring him to light, and that puniſhment which is moſt due to all that perpetuate ſuch Cruel and Bloody Villa<g ref="char:EOLhyphen"/>nies.</p>
+            <q>Sera ſed certa vindicta dei.</q>
+            <p>Though Heaven ſeems ſlow in ſuch offenders Dooms, Its ſtroke is ſure, and dreadful when it comes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
